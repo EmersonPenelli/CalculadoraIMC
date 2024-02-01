@@ -1,4 +1,16 @@
-# React + Vite
+# Projeto Calculadora IMC (desenvolvido em React)
+
+## Crie um projeto utilizando ReactJS;
+
+### Este projeto será basicamente um formulário, contendo os campos:
+- Altura
+- Peso
+
+#### A partir dessas informações calcule o IMC;
+#### Retorne o IMC e a classificação na tabela;
+
+<br />
+
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
